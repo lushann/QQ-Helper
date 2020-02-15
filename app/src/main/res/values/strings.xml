@@ -7,5 +7,5 @@
     <string name="module_status_off_desc">请保证Xposed框架运行正常,在 Xposed Installer 中勾选 QQ Helper 以激活本模块</string>
     <string name="module_status_on_title">生效中</string>
     <string name="module_status_on_desc">当前生效版本号见下方版本信息</string>
-    <string name="module_thanks">致谢 🙏\n1.本项目主要参考了 cinit 的 QNotified 项目，感谢前辈的开源。 \n2.本项目使用Edxopsed 进行调试，感谢前辈们为 Xposed 做出的贡献，使 Android 平台上的 Hook 变得越如此简单。\n 3.感谢所有前辈对开源所做的无私奉献，包括但不限于代码和文章，让我这种小白也能快速上手。</string>
+    <string name="module_thanks">致谢 🙏\n1.本项目主要参考了 cinit 的 QNotified 项目，感谢前辈的开源。 \n2.感谢前辈们为 Xposed 框架 与 类Xposed框架 做出的贡献，使 Android 平台上的 Hook 变得越如此简单。\n 3.本项目使用太极(无极模式)进行开发与调试，感谢 weishu 前辈。</string>
 </resources>
